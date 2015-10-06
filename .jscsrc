@@ -1,0 +1,15 @@
+{
+  "disallowEmptyBlocks": true,
+  "disallowImplicitTypeConversion": ["string"],
+  "disallowKeywords": ["with"],
+  "disallowKeywordsOnNewLine": ["else"],
+  "disallowMixedSpacesAndTabs": true,
+  "disallowMultipleLineBreaks": true,
+  "disallowNodeTypes": ["LabeledStatement"],
+  "disallowSpaceAfterPrefixUnaryOperators": true,
+  "excludeFiles": [],
+  "requireCapitalizedConstructors": true,
+  "requireDotNotation": true,
+  "requirePaddingNewLinesBeforeExport": true,
+  "validateParameterSeparator": ", "
+}

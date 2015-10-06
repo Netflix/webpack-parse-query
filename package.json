@@ -1,0 +1,37 @@
+{
+  "name": "webpack-parse-query",
+  "version": "1.0.0",
+  "description": "Webpack Loader Utils' parseQuery as a separate module",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Netflix/webpack-parse-query.git"
+  },
+  "keywords": [
+    "webpack",
+    "util",
+    "parsequery",
+    "parse",
+    "query",
+    "querystring",
+    "loader"
+  ],
+  "author": "James J. Womack (@james_womack)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Netflix/webpack-parse-query/issues"
+  },
+  "homepage": "https://github.com/Netflix/webpack-parse-query#readme",
+  "dependencies": {
+    "json5": "0.4.0"
+  },
+  "devDependencies": {
+    "mocha": "2.3.3"
+  },
+  "files": [
+    "index.js"
+  ]
+}
